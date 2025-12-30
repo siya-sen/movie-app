@@ -22,14 +22,6 @@ Built with React, Context API, React Router, and TMDB API.
 
 ---
 
-## Screenshots
-
-![Home Page](screenshots/home.png)  
-![Favorites Page](screenshots/favorites.png)  
-
-*(Optional: add screenshots or GIFs of your app here)*
-
----
 
 ## Setup Instructions
 
